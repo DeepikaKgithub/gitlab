@@ -1,3 +1,0 @@
-git log 
-git show
-git revert
