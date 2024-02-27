@@ -1,0 +1,8 @@
+basic commands of git
+ls
+cd Desktop
+git init
+git help
+git status
+vim newfile.txt
+git help 
